@@ -1,5 +1,6 @@
 body{
   padding: 20px;
+  background-color: #cfcece;
 }
 .title {
 	color: #030b40;
@@ -12,4 +13,7 @@ button {
 	font-family: "Geist Pixel";
 	font-weight: 1000;
 	color: #000000;
+	border: none;
+	border-radius: 6px;
+	box-shadow: 0px 4px 4px;
 }
