@@ -1,0 +1,15 @@
+body{
+  padding: 20px;
+}
+.title {
+	color: #030b40;
+}
+h1 {
+	font-family: "Press Start 2p";
+	font-weight: 10;
+}
+button {
+	font-family: "Geist Pixel";
+	font-weight: 1000;
+	color: #000000;
+}
